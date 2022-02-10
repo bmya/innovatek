@@ -14,3 +14,7 @@
 	path = OCA/server-ux
 	url = git@github.com:OCA/server-ux.git
 	branch = 14.0
+[submodule "bmya/website-connectors"]
+	path = bmya/website-connectors
+	url = git@github.com:bmya/website-connectors.git
+	branch = 14.0_dev
